@@ -13,4 +13,8 @@ Another unsaed line
 - git diff --staged : compare staging file to commiteed files.
 - git diff HEAD~1 : compare with head <NUM>
 - git diff <HASH> : compare with commited hash
-
+- git restore --source <hash> <file> : file to restore from history
+- git checkout <hash> <file> : restore file
+- git checkout <hash> : in detatched sate
+	- git checkout main
+	- git switch main : going back to main commit.
