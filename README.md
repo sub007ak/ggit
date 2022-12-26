@@ -33,3 +33,11 @@ Another unsaed line
 ---------------- Changes on web -----
 - git pull <whare> <what> : pull from there where and which branch
 
+-----------------branching -------------
+
+git branch <name> : create a new branch
+git switch <name> : switch to a given branch
+git branch -d <name> : delete the given branch
+
+
+
