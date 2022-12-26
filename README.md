@@ -19,6 +19,8 @@ Another unsaed line
 - git checkout <hash> : in detatched sate
 	- git checkout main
 	- git switch main : going back to main commit.
+
+#STARTED working on REMOTE
 - git remote add <name> <url> : adding a remote location
 	git remote add origin https://github.com/usrname/repo.git
 	<name> is by convention origin
