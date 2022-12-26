@@ -18,3 +18,10 @@ Another unsaed line
 - git checkout <hash> : in detatched sate
 	- git checkout main
 	- git switch main : going back to main commit.
+- git remote add <name> <url> : adding a remote location
+	git remote add origin https://github.com/usrname/repo.git
+	<name> is by convention origin
+- git remote -v : show all the remote repo setup for local repo.
+- git push <where> <what> : where = url, what = branch
+- git remote remove <name>
+
