@@ -24,4 +24,6 @@ Another unsaed line
 - git remote -v : show all the remote repo setup for local repo.
 - git push <where> <what> : where = url, what = branch
 - git remote remove <name>
+---------------- Changes on web -----
+- git pull <whare> <what> : pull from there where and which branch
 
