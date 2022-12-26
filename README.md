@@ -1,4 +1,4 @@
-Title : Git Tutorial
+Title : Git Tutorial - for Local work
 This is the readme file to show git commands.
 - git init : to initialize current 
 - git clone <url> : to bring the repo from <URL> to current folder
@@ -20,7 +20,7 @@ Another unsaed line
 	- git checkout main
 	- git switch main : going back to main commit.
 
-#STARTED working on REMOTE
+#STARTED working on REMOTE - for remote work
 - git remote add <name> <url> : adding a remote location
 	git remote add origin https://github.com/usrname/repo.git
 	<name> is by convention origin
